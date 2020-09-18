@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: kavl.net
 description: hi
-github:is\_project\_page:false
+github:
+  is_project_page: false
