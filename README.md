@@ -5,4 +5,4 @@ Other places you can find me:
 |---   |---|
 |Twitter| [@chiefofstuffs](https://twitter.com/chiefofstuffs)
 
-here's a link to [another page](www.kavl.net/hello.html): 
+here's a link to [another page](hello.html): 
